@@ -1,0 +1,24 @@
+{
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "css-spinners": "^1.0.1",
+    "downloadjs": "^1.4.7",
+    "easy-social-share-links": "^1.2.2",
+    "json5": "^2.2.0",
+    "resolve-package-path": "^4.0.1"
+  },
+  "bin": {
+    "dirtest": "index.js"
+  },
+  "name": "dirtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "Param Siddharth <contact@paramsid.com> (http://www.paramsid.com/)",
+  "license": "ISC",
+  "description": ""
+}
